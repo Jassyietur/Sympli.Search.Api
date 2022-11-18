@@ -6,7 +6,7 @@ NET Core 3.1 Web API services the request returning back the response from Googl
 
 ### Getting started
 
-- Clone the project on [jasmine Github](https://github.com/Jasyyie/sympli.search.api) via Http/SSH and pull the repository locally to view the source code
+- Clone the project on [jasmine Github](https://github.com/Jassyietur/sympli.search.api) via Http/SSH and pull the repository locally to view the source code
 
 ### Building
 
